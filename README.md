@@ -15,3 +15,10 @@ Processor : Intel® Core™ i7-7700HQ CPU @ 2.80GHz × 8
 GPU : GeForce GTX 1060 with Max-Q Design/PCIe/SSE2 
 GPU Memory : 6 GiG
 
+### Execution Timings
+
+Tf 2.0 - Time taken for model training is 2227.50252199
+
+Tf 1.x - Time taken for model training is 2248.7498579
+
+
